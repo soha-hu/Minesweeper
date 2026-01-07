@@ -1,4 +1,4 @@
-# Minesweeper
+# Minesweeper- My AI Very Own Agent!
 # Beating the Logic Bot: A Neural Minesweeper Agent That Learns to Reason
 
 Minesweeper isn’t about reflexes or pattern matching.  
