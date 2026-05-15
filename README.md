@@ -1,8 +1,7 @@
 # Minesweeper- My AI Very Own Agent!
 # Beating the Logic Bot: A Neural Minesweeper Agent That Learns to Reason
 
-Minesweeper isn’t about reflexes or pattern matching.  
-It’s about **reasoning under uncertainty**, where every move changes what you know next.
+In this project I tackle **reasoning under uncertainty**, where every move changes what you know next.
 
 This project explores a question that fascinated me from the start:
 
